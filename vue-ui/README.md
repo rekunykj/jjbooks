@@ -1,4 +1,3 @@
-# cweb-vuejs
 
 ## Project setup - in terminal navigate to \vue-ui\
 ```
